@@ -31,4 +31,4 @@ Feel free to explore the code and experiment with different network architecture
 Acknowledgements
 This code is a basic implementation of a neural network for digit classification and is intended for educational purposes. It utilizes the torchvision library to access the MNIST dataset and PyTorch for building and training the neural network model.
 
-To further enhance your understanding of neural networks, I recommend watching the insightful YouTube playlist "Neural Networks Demystified" by 3Blue1Brown, which provides a visual and intuitive explanation of the underlying concepts.
+To further enhance your understanding of neural networks, I recommend watching the insightful YouTube playlist "3Blue1Brown Neural Network" by 3Blue1Brown, which provides a visual and intuitive explanation of the underlying concepts.
